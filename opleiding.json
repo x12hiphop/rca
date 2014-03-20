@@ -1,0 +1,280 @@
+{
+	"CoreTasks": {
+		"1":{
+			"name":"Kerntaak 1",
+			"workProcesses": {
+				"1":{
+					"name":"Werkproces 1",
+					"competentions": {
+						"A":{"name":"A",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"B":{"name":"B",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"C":{"name":"C",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"D":{"name":"X",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }}
+					}
+				},
+				"2":{
+					"name":"Werkproces 2",
+					"competentions": {
+						"Y":{"name":"Y",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"Q":{"name":"Q",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"Z":{"name":"Z",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"X":{"name":"X",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }}
+					}
+				},
+				"3":{
+					"name":"Werkproces 3",
+					"competentions": {
+						"A":{"name":"A",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"F":{"name":"F",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"E":{"name":"E",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"X":{"name":"X",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }}
+					}
+				}
+			}
+		},
+		"2":{
+			"name":"Kerntaak 2",
+			"workProcesses": {
+				"1":{
+					"name":"Werkproces 1",
+					"competentions": {
+						"A":{"name":"A",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":0
+                        }},
+						"H":{"name":"H",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }},
+						"O":{"name":"O",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }},
+						"L":{"name":"L",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }}
+					}
+				},
+				"2":{
+					"name":"Werkproces 2",
+					"competentions": {
+						"Y":{"name":"Y",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }},
+						"M":{"name":"M",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }},
+						"C":{"name":"C",
+						"complete":{
+							"0":1,
+							"1":0,
+							"2":0
+                        }},
+						"A":{"name":"A",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":0
+                        }}
+					}
+				},
+				"3":{
+					"name":"Werkproces 3",
+					"competentions": {
+						"D":{"name":"D",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":0
+                        }},
+						"E":{"name":"E",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":0
+                        }},
+						"R":{"name":"R",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":0
+                        }},
+						"P":{"name":"P",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":0
+                        }}
+					}
+				}
+			}
+		},
+		"3":{
+			"name":"Kerntaak 3",
+			"workProcesses": {
+				"1":{
+					"name":"Werkproces 1",
+					"competentions": {
+						"A":{"name":"A",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"Z":{"name":"Z",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"V":{"name":"V",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":0
+                        }},
+						"L":{"name":"L",
+						"complete":{
+							"0":1,
+							"1":0,
+							"2":0
+                        }}
+					}
+				},
+				"2":{
+					"name":"Werkproces 2",
+					"competentions": {
+						"E":{"name":"E",
+						"complete":{
+							"0":1,
+							"1":1,
+							"2":1
+                        }},
+						"T":{"name":"T",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }},
+						"U":{"name":"U",
+						"complete":{
+							"0":1,
+							"1":0,
+							"2":0
+                        }},
+						"I":{"name":"I",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }}
+					}
+				},
+				"3":{
+					"name":"Werkproces 3",
+					"competentions": {
+						"J":{"name":"J",
+						"complete":{
+							"0":0,
+							"1":1,
+							"2":0
+                        }},
+						"O":{"name":"O",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }},
+						"Q":{"name":"Q",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }},
+						"P":{"name":"P",
+						"complete":{
+							"0":0,
+							"1":0,
+							"2":0
+                        }}
+					}
+				}
+			}
+		}
+	}
+}
